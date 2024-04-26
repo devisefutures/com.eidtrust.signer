@@ -2,7 +2,7 @@
 
 com.eidtrust.signer was proposed and managed by Devise Futures, and developped by @pg42819-chris and @FranciscoRosa11 (laboratory project for Master in Informatics Engineering).
 
-This software project is the public domain - it is a free and unencumbered software released into the public domain - .
+This software project is in the public domain - it is a free and unencumbered software released into the public domain - .
 
 ---------------
 
