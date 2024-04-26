@@ -1,0 +1,28 @@
+server:
+  port: 8081
+
+security:
+  ignored: /**
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 1MB
+      max-request-size: 1MB
+      # Threshold after which files are written to disk.
+      file-size-threshold: 20KB
+      # Max file size.
+
+file:
+  uploadDir: .
+  extensions: pdf
+
+rssp:
+  cscBaseUrl: http://localhost:8080/csc/v1
+
+logging:
+  level:
+    org:
+      springframework:
+        security: TRACE

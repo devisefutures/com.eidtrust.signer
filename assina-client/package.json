@@ -1,0 +1,26 @@
+{
+  "name": "react-social",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "password-hash": "^1.2.2",
+    "react": "^16.5.2",
+    "react-alert": "^7.0.3",
+    "react-dom": "^16.5.2",
+    "react-dropdown-select": "^4.7.4",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-s-alert": "^1.4.1",
+    "react-scripts": "1.1.5",
+    "react-select": "^4.3.1",
+    "warning": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
