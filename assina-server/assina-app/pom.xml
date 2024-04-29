@@ -175,7 +175,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>eu.assina.rssp.AssinaRSSPApplication</mainClass>
+                    <mainClass>com.eidtrust.signer.rssp.AssinaRSSPApplication</mainClass>
                     <layout>ZIP</layout>
                 </configuration>
                 <executions>
